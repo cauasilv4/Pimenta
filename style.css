@@ -1,3 +1,7 @@
 .pimenta {
-    background-color: aqua;
+    background-color: rgb(27, 124, 235);
+}.cabecalho-lista-item{
+
+    margin: 0 16px;
+    font-size: 24px;
 }
