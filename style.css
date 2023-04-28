@@ -1,7 +1,7 @@
 header {
     background-color: rgba(27, 124, 235, 0.692);
 }.cabecalho-lista-item{
-
+    color: white;
     margin: 0 16px;
     font-size: 24px;
 }
